@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Bolso",
+    "slug": "bolso-app",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.bernardoreges.bolso",
+      "versionCode": 1,
+      "allowBackup": false,
+      "blockedPermissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.CAMERA",
+        "android.permission.READ_CONTACTS",
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bolso-icon.png",
+        "backgroundColor": "#173E37"
+      }
+    },
+    "plugins": ["expo-sqlite"],
+    "web": {
+      "bundler": "metro"
+    },
+    "updates": {
+      "enabled": false
+    },
+    "icon": "./assets/bolso-icon.png"
+  }
+}
