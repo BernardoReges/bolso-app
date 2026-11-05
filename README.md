@@ -10,6 +10,7 @@ Desenvolvido por [Bernardo Reges](https://github.com/BernardoReges). Código dis
   <img src="docs/images/inicio.png" width="230" alt="Resumo mensal com dados fictícios" />
   <img src="docs/images/lancamento.png" width="230" alt="Registro rápido de um gasto" />
   <img src="docs/images/extrato.png" width="230" alt="Extrato de demonstração" />
+  <img src="docs/images/contas.png" width="230" alt="Organização de contas" />
 </p>
 
 Capturas com dados de demonstração. Uma nova instalação começa sem lançamentos.
