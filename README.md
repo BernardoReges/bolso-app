@@ -2,7 +2,7 @@
 
 Aplicativo pessoal de controle financeiro para Android: registre receitas e gastos rapidamente, acompanhe o mês e transfira valores entre contas. **Offline, sem cadastro, sem servidor e sem chave de API.**
 
-Projeto open source de [Bernardo Reges](https://github.com/BernardoReges), desenvolvido com auxílio de IA. Licença MIT: você pode estudar, modificar e redistribuir o código conforme a licença.
+Desenvolvido por [Bernardo Reges](https://github.com/BernardoReges). Código disponível sob licença MIT.
 
 ## Telas
 
@@ -12,7 +12,7 @@ Projeto open source de [Bernardo Reges](https://github.com/BernardoReges), desen
   <img src="docs/images/extrato.png" width="230" alt="Extrato de demonstração" />
 </p>
 
-Capturas da prévia web em tamanho de celular, com dados fictícios usados nos testes. O aplicativo instalado começa vazio.
+Capturas com dados de demonstração. Uma nova instalação começa sem lançamentos.
 
 ## O que já faz
 

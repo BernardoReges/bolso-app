@@ -300,7 +300,7 @@ function Bolso() {
     ];
     setConfirm({
       title: "Carregar demonstração?",
-      text: "Isso substitui os dados atuais por quatro lançamentos fictícios. Use apenas para conhecer o app e tire um backup antes, se já tiver registros.",
+      text: "Os exemplos substituem seus registros atuais. Exporte um backup antes para preservar seus dados.",
       action: async () => {
         await persist(next);
         setMonth(L.today().slice(0, 7));
@@ -700,7 +700,7 @@ function Bolso() {
                 />
               </View>
               <Text style={[s.small, { textAlign: "center" }]}>
-                Bolso · v0.1.0 · Open source (MIT){"\n"}Feito para o dia a dia.
+                Bolso · v0.1.0{"\n"}Seu dinheiro, com clareza.
                 Valores em reais.
               </Text>
             </>
